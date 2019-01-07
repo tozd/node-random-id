@@ -1,0 +1,13 @@
+{
+  "name": "@tozd/random-id",
+  "version": "1.0.0",
+  "description": "Random ID generation compatible with Meteor",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "license": "BSD-3-Clause",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tozd/node-random-id.git"
+  }
+}
