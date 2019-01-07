@@ -2,7 +2,10 @@
   "name": "@tozd/random-id",
   "version": "1.0.0",
   "description": "Random ID generation compatible with Meteor",
-  "keywords": ["meteor", "random"],
+  "keywords": [
+    "meteor",
+    "random"
+  ],
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {},
